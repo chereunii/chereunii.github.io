@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Chereuni # the main title
 
-tagline:Record # it will display as the sub-title
+tagline: Record # it will display as the sub-title
 
 description: >- 
   Chereuni # used by seo meta and the atom feed
